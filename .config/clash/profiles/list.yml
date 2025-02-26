@@ -1,0 +1,116 @@
+files:
+  - url: ""
+    time: 1713361046554.yml
+    name: config.yaml
+    selected: []
+    mode: global
+  - url: ""
+    time: 1713361062660.yml
+    name: 1711863102605.yml
+    selected:
+      - name: GLOBAL
+        now: 🇯🇵 免费-日本6-Ver.7
+      - name: 🔰 选择节点
+        now: DIRECT
+      - name: 🌏 爱奇艺&哔哩哔哩
+        now: DIRECT
+      - name: 📺 动画疯
+        now: 🔰 选择节点
+      - name: 🎮 Steam 登录/下载
+        now: DIRECT
+      - name: 🎮 Steam 商店/社区
+        now: 🔰 选择节点
+      - name: 🌩️ Cloudflare
+        now: 🔰 选择节点
+      - name: ☁️ OneDrive
+        now: 🔰 选择节点
+      - name: 🇨🇳 国内网站
+        now: DIRECT
+      - name: 🛑 拦截广告
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🔰 选择节点
+    mode: global
+  - url: ""
+    time: 1716723631731.yml
+    name: free.yaml
+    selected:
+      - name: GLOBAL
+        now: 🇫🇷 法国【付费推荐：https://jdyvip.link/】2
+      - name: 🚀 节点选择
+        now: ♻️ 自动选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    mode: global
+  - time: 1716723756513.yml
+    name: emzclash
+    url: https://git.io/emzclash
+    selected:
+      - name: GLOBAL
+        now: 🇵🇱_PL_波兰_2
+      - name: 🚀 节点选择
+        now: ♻️ 自动选择
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    interval: 0
+    subInfo: {}
+    mode: global
+  - time: 1716723810651.yml
+    name: sub
+    url: https://sub.sharecentre.online/sub
+    selected: []
+    interval: 0
+    subInfo: {}
+    mode: global
+  - time: 1716723940568.yml
+    name: clash.yaml
+    url: https://sub.pmsub.me/clash.yaml
+    selected:
+      - name: GLOBAL
+        now: 🇺🇸 United States 01 @nodpai
+      - name: 🔰 节点选择
+        now: ♻️ 自动选择
+      - name: 🎥 NETFLIX
+        now: 🔰 节点选择
+      - name: ⛔️ 广告拦截
+        now: 🛑 全球拦截
+      - name: 🚫 运营劫持
+        now: 🛑 全球拦截
+      - name: 🌍 国外媒体
+        now: 🔰 节点选择
+      - name: 🌏 国内媒体
+        now: 🎯 全球直连
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 📲 电报信息
+        now: 🔰 节点选择
+      - name: 🍎 苹果服务
+        now: 🔰 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🔰 节点选择
+    interval: 0
+    subInfo: {}
+    mode: global
+index: 1

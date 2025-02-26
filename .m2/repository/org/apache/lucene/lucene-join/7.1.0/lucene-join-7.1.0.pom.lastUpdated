@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:46:50 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329210231
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.lucene\:lucene-join\:pom\:7.1.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots), apache.snapshots (http\://repository.apache.org/snapshots, default, disabled)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329210463

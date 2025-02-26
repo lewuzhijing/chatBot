@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:45:39 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329139097
+http\://0.0.0.0/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-freemarker\:pom\:1.5.8.RELEASE from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329139336

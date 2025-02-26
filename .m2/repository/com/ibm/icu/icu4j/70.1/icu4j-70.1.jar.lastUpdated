@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 17 22:15:27 CST 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1697552127586
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.ibm.icu\:icu4j\:jar\:70.1 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\\u738B\u8C26\\.m2\\repository\\com\\ibm\\icu\\icu4j\\70.1\\icu4j-70.1.jar.4604726486406988091.tmp -> C\:\\Users\\\u738B\u8C26\\.m2\\repository\\com\\ibm\\icu\\icu4j\\70.1\\icu4j-70.1.jar

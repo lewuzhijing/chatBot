@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:46:31 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329191416
+http\://0.0.0.0/.error=Could not transfer artifact com.squareup.okio\:okio-parent\:pom\:1.14.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329191691

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:45:46 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329146433
+http\://0.0.0.0/.error=Could not transfer artifact commons-io\:commons-io\:pom\:2.2 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots), apache.snapshots (http\://repository.apache.org/snapshots, default, snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329146746

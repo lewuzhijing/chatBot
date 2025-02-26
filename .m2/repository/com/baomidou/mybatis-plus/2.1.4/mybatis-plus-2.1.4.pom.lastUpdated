@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:46:07 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329166860
+http\://0.0.0.0/.error=Could not transfer artifact com.baomidou\:mybatis-plus\:pom\:2.1.4 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329167160

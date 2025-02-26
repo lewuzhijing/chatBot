@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:50:35 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329216536
+http\://0.0.0.0/.error=Could not transfer artifact com.chenlb.mmseg4j\:mmseg4j-solr\:jar\:2.4.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329435109

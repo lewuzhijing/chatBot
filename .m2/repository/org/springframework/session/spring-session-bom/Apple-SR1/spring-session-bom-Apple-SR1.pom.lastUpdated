@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:46:05 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329164879
+http\://0.0.0.0/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Apple-SR1 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots)]
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1713329165693
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329165892
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1713329165161
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/snapshot/.lastUpdated=1713329165432

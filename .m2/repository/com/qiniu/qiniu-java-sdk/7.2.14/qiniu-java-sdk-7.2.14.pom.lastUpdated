@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 17 12:46:28 CST 2024
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1713329188358
+http\://0.0.0.0/.error=Could not transfer artifact com.qiniu\:qiniu-java-sdk\:pom\:7.2.14 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyunmaven (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713329188563
